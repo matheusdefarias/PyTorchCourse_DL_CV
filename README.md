@@ -1,4 +1,4 @@
-# PyTorch Notebooks from ***PyTorch for Deep Learning and Computer Vision*** Course [with comments]
+# PyTorch Notebooks with comments from the course: ***PyTorch for Deep Learning and Computer Vision***
 
 <div align="center">
   <a href="https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/" target="_blank">
